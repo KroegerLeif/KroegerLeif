@@ -2,7 +2,7 @@
 
 🌱 **Softwareentwickler in Ausbildung – Fokus auf Java und Backend-Systeme**  
 💡 **Schwerpunkte:** Java, Spring Boot, RESTful APIs 
-🎓 **Informatik- und Bootcamp-Background**  
+🎓 **Informatikstudium erfahrung- und Bootcamp-Background**  
 📍 **Standort:** Deutschland - Hamburg
 
 ---
@@ -27,11 +27,16 @@ In meinen bisherigen Projekten lag mein Fokus vor allem auf der **Backend-Entwic
 
 ## 🌟 Projekte (in Kürze verfügbar)
 
-Ich arbeite derzeit an  Projekten im Rahmen meines Bootcamps, die ich hier bald veröffentlichen werde. Diese Projekte umfassen unter anderem:
-- **Webanwendungen** mit Java, Spring Boot und TypeScript.
-- **RESTful APIs** zur Datenverwaltung.
-- **Integration von Docker** in Softwareentwicklungsprozesse.
-- **Frontend-Entwicklung** mit React .
+-1.Abschluss project (Neue Fische)
+--TBD
+-- Repro Link:
+-2.Gruppen Project (Neue Fische)
+--Waerhouse verwaltungssoftware. Die Software ermöglich den Warenbestand eines Ladens einzusehen und zu verwalten.
+--Repro Link:
+-3.Gruppen Project (PM2 AI Studium)
+--Erstellung einer Quiz APP zum lernen von Programiersprachen. 
+--Repro Link:
+
 
 
 ---
