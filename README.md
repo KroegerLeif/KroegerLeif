@@ -27,11 +27,11 @@ In meinen bisherigen Projekten lag mein Fokus vor allem auf der **Backend-Entwic
 
 ## 🌟 Projekte (in Kürze verfügbar)
 
--1.Abschluss project (Neue Fische)
---TBD
+- 1.Abschluss project (Neue Fische)
+-- TBD
 -- Repro Link:
--2.Gruppen Project (Neue Fische)
---Waerhouse verwaltungssoftware. Die Software ermöglich den Warenbestand eines Ladens einzusehen und zu verwalten.
+- 2.Gruppen Project (Neue Fische)
+--[Waerhouse verwaltungssoftware. Die Software ermöglich den Warenbestand eines Ladens einzusehen und zu verwalten.](https://github.com/KroegerLeif/Stock_App)
 --Repro Link:
 -3.Gruppen Project (PM2 AI Studium)
 --Erstellung einer Quiz APP zum lernen von Programiersprachen. 
