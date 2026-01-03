@@ -1,15 +1,15 @@
 # Hallo, ich bin Leif Kröger 👋
 
-🌱 **Softwareentwickler in Ausbildung – Fokus auf Java und Backend-Systeme**  
+🌱 **Softwareentwickler in Ausbildung bei OKTOPOS
 💡 **Schwerpunkte:** Java, Spring Boot, RESTful APIs 
-🎓 **Informatikstudium erfahrung- und Bootcamp-Background**  
+🎓 **Informatikstudium erfahrung- und  abgeschloßenes Java Bootcamp bei neueFische**  
 📍 **Standort:** Deutschland - Hamburg
 
 ---
 
 ## 🚀 Über mich
 
-Ich befinde mich aktuell in einem intensiven **Bootcamp bei Neue Fische**, das ich im **November 2025** abschließen werde. Mein Ziel ist es, sowohl meine theoretischen als auch praktischen Kenntnisse in der Softwareentwicklung zu vertiefen. Zuvor habe ich ein Studium in der **Informatik** begonnen, mich jedoch für einen praxisorientierten Ansatz entschieden, wesegen ich ein Bootcamp bei neue Fische angefangen habe.
+Ich bin aktuell in der Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei OktoPos. Zuvor habe ich ein Studium in der **Informatik** begonnen, mich jedoch für einen praxisorientierten Ansatz entschieden, weswegen ich ein **Bootcamp bei Neue Fische**, im **November 2025** abgeschloßen habe. Den Weg setze ich nun mit meiner Ausbildung fort.
 
 In meinen bisherigen Projekten lag mein Fokus vor allem auf der **Backend-Entwicklung** mit **Java** und verwandten Technologien. Zusätzlich habe ich Erfahrung mit **TypeScript** gesammelt und arbeite daran, meine Fähigkeiten im Bereich **Frontend-Entwicklung mit React** zu erweitern.
 
@@ -25,7 +25,7 @@ In meinen bisherigen Projekten lag mein Fokus vor allem auf der **Backend-Entwic
 
 ---
 
-## 🌟 Projekte (in Kürze verfügbar)
+## 🌟 Projekte
 
 - 1.Abschluss project (Neue Fische)
 -- Alfheim Digitaler Wartungsplan für zu Hause
